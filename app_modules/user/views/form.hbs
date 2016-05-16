@@ -1,0 +1,16 @@
+<div class="field">
+  {{label "username" "Username"}}
+  {{input "username" user.username placeholder="Username"}}
+</div>
+<div class="field">
+  {{label "password" "Password"}}
+  {{password "password" user.password placeholder="Password"}}
+</div>
+<div class="field">
+  {{label "full_name" "Full Name"}}
+  {{input "full_name" user.full_name placeholder="Full Name"}}
+</div>
+<div class="field">
+  {{submit "submit" "Submit" class="ui large blue icon button"}}
+  <a class="ui large red icon button" href="/user">Kembali</a>
+</div>
