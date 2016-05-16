@@ -1,0 +1,18 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/sdarmaputra/Express-HMVC",
+  "authors": [
+    "sdarmaputra <surya.igede@gmail.com>"
+  ],
+  "description": "Application assets",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

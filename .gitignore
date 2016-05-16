@@ -1,2 +1,3 @@
 # Ignore files or directories
 /node_modules
+/public/bower_components
